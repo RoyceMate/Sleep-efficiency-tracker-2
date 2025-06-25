@@ -31,5 +31,4 @@ else:
 st.markdown("---")
 st.caption("Built with ❤️ using Streamlit")
 
-ººººººººº
 
